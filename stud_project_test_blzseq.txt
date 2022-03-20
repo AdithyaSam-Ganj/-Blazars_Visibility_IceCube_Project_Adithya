@@ -1,0 +1,14 @@
+Bachelors/Masters project in experimental/neutrino astrophysics:
+
+SEDs of the astrophysical neutrinos produced in jetted AGN by photo-hadronic interactions are sensitive to the energy distributions of the protons and the target photons. These target photons can originate either inside the jet itself, or in external fields around the jet. Studying a large sample of these sources, with various assumptions for the target photons, and correlating them to the energy of neutrino production, can provide insights into the class of sources visible to the IceCube observatory.
+
+Within this project, the student can expect to learn how to curate a catalog of the relevant sources with the desired properties available to exploit. Additionally, they will learn how the SED of neutrinos and target photons fields are correlated for blazars. IceCube sensitivity and possibly public IceCube data can be used to make further predictions and test the blazar sequence. Basic knowledge of Python/C++ is a pre-requisite.
+
+Useful references:
+
+1) Murase et al 2014 (https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.023007)
+
+2) Padovani et al 2015 (https://arxiv.org/pdf/1506.09135.pdf)
+
+
+For more information, contact Ankur Sharma (ankur.sharma@physics.uu.se)
